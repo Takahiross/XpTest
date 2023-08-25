@@ -1,0 +1,55 @@
+name: dockercompose9188130904929103882
+services:
+  sqlserver:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Supersenha@123
+    expose:
+    - "1450"
+    hostname: sqlserver
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1450"
+      protocol: tcp
+    user: root
+    volumes:
+    - type: bind
+      source: C:\Dados\volumes\mssql
+      target: /var/opt/mssql/data
+      bind:
+        create_host_path: true
+  xptest.api:
+    build:
+      context: C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest
+      dockerfile: XpTest.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: xptestapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "32033"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\WTAKA\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\WTAKA\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose9188130904929103882_default

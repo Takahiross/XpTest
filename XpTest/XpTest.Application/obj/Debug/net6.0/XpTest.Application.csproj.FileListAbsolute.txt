@@ -1,0 +1,15 @@
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\bin\Debug\net6.0\XpTest.Application.deps.json
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\bin\Debug\net6.0\XpTest.Application.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\bin\Debug\net6.0\XpTest.Application.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\bin\Debug\net6.0\XpTest.Domain.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\bin\Debug\net6.0\XpTest.Domain.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.csproj.AssemblyReference.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.AssemblyInfoInputs.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.AssemblyInfo.cs
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.csproj.CopyComplete
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\refint\XpTest.Application.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\XpTest.Application.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Application\obj\Debug\net6.0\ref\XpTest.Application.dll

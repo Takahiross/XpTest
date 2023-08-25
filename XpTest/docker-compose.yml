@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  xptest.api:
+    image: ${DOCKER_REGISTRY-}xptestapi
+    build:
+      context: .
+      dockerfile: XpTest.Api/Dockerfile
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    user: root    
+    hostname: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Supersenha@123"
+    ports:
+      - "1433:1433"
+    expose:
+      - "1433"
+    volumes:
+      - C:\Dados\volumes\mssql:/var/opt/mssql/data

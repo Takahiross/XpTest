@@ -1,0 +1,17 @@
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\bin\Debug\net6.0\XpTest.Infra.Data.deps.json
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\bin\Debug\net6.0\XpTest.Infra.Data.runtimeconfig.json
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\bin\Debug\net6.0\XpTest.Infra.Data.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\bin\Debug\net6.0\XpTest.Infra.Data.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\bin\Debug\net6.0\XpTest.Domain.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\bin\Debug\net6.0\XpTest.Domain.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.AssemblyInfo.cs
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.csproj.CopyComplete
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\refint\XpTest.Infra.Data.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\XpTest.Infra.Data.genruntimeconfig.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Infra\obj\Debug\net6.0\ref\XpTest.Infra.Data.dll

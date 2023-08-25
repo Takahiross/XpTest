@@ -1,0 +1,11 @@
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\bin\Debug\net6.0\XpTest.Domain.deps.json
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\bin\Debug\net6.0\XpTest.Domain.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\bin\Debug\net6.0\XpTest.Domain.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\XpTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\XpTest.Domain.AssemblyInfoInputs.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\XpTest.Domain.AssemblyInfo.cs
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\XpTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\XpTest.Domain.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\refint\XpTest.Domain.dll
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\XpTest.Domain.pdb
+C:\Users\WTAKA\OneDrive\Documentos\dev\XpTest\XpTest\XpTest.Domain\obj\Debug\net6.0\ref\XpTest.Domain.dll
